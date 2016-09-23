@@ -1,0 +1,3 @@
+# CtDynamicAds
+
+display google ads
